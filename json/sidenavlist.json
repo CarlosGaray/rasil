@@ -1,0 +1,46 @@
+[
+    {
+        "productos": [
+            "Alfombras y Tapizones",
+            "Carpinteria en Aluminio",
+            "Cielos Raso",
+            "Drywall",
+            "Cortinas",
+            "Espejos",
+            "Laminado-Fierro-Acero",
+            "Persianas",
+            "Puertas",
+            "Roller",
+            "Techos"
+        ]
+    },
+    {
+        "servicios": [
+            "Albañilería",
+            "Aplicación",
+            "Carpinteria",
+            "Confección M/O",
+            "Instalación",
+            "Lavado",
+            "Limpieza-Pintado",
+            "Mantenimiento",
+            "Tapizado"
+        ]
+    },
+    {
+        "destacados": [
+            "Cortinas",
+            "Stores",
+            "Roller Duo",
+            "Persianas"
+        ]
+    },
+    {
+        "proyectos": [
+            "Obra Civil",
+            "Fundas Muebles",
+            "Cielos Raso",
+            "Lavado Alfombras"
+        ]
+    }
+]

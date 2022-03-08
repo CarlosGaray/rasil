@@ -1,0 +1,1411 @@
+{
+    "productos": {
+        "Alfombras y Tapizones": [
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto1",
+                "desc_product": "Description1On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "100"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto2",
+                "desc_product": "Description2On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "103"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto3",
+                "desc_product": "Description4On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "104"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto5",
+                "desc_product": "Description5On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "105"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto6",
+                "desc_product": "Description6On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "106"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto7",
+                "desc_product": "Description7On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "107"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto8",
+                "desc_product": "Description8On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "108"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto9",
+                "desc_product": "Description9On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "109"
+            }
+        ],
+        "Carpinteria en Aluminio": [
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto1",
+                "desc_product": "Description1On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "250"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto2",
+                "desc_product": "Description2On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "203"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto3",
+                "desc_product": "Description4On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "204"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto5",
+                "desc_product": "Description5On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "205"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto6",
+                "desc_product": "Description6On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "206"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto7",
+                "desc_product": "Description7On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "207"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto8",
+                "desc_product": "Description8On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "208"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto9",
+                "desc_product": "Description9On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "209"
+            }
+        ],
+        "Cielos Raso": [
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto1",
+                "desc_product": "Description1On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "350"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto2",
+                "desc_product": "Description2On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "303"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto3",
+                "desc_product": "Description4On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "304"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto5",
+                "desc_product": "Description5On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "305"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto6",
+                "desc_product": "Description6On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "306"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto7",
+                "desc_product": "Description7On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "307"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto8",
+                "desc_product": "Description8On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "308"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto9",
+                "desc_product": "Description9On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...                ",
+                "prec_product": "308"
+            }
+        ],
+        "Drywall": [
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto1",
+                "desc_product": "Description1On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "450"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto2",
+                "desc_product": "Description2On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "403"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto3",
+                "desc_product": "Description4On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "404"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto5",
+                "desc_product": "Description5On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "405"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto6",
+                "desc_product": "Description6On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "406"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto7",
+                "desc_product": "Description7On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "407"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto8",
+                "desc_product": "Description8On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "408"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto9",
+                "desc_product": "Description9On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "408"
+            }
+        ],
+        "Cortinas": [
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto1",
+                "desc_product": "Description1On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "550"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto2",
+                "desc_product": "Description2On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "503"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto3",
+                "desc_product": "Description4On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "504"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto5",
+                "desc_product": "Description5On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "505"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto6",
+                "desc_product": "Description6",
+                "prec_product": "506"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto7",
+                "desc_product": "Description7On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "507"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto8",
+                "desc_product": "Description8On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "508"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto9",
+                "desc_product": "Description9On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "508"
+            }
+        ],
+        "Espejos": [
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto1",
+                "desc_product": "Description1On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "650"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto2",
+                "desc_product": "Description2On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "603"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto3",
+                "desc_product": "Description4On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "604"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto5",
+                "desc_product": "Description5On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "605"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto6",
+                "desc_product": "Description6On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "606"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto7",
+                "desc_product": "Description7On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "607"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto8",
+                "desc_product": "Description8On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "608"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto9",
+                "desc_product": "Description9On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "608"
+            }
+        ],
+        "Laminado-Fierro-Acero": [
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto1",
+                "desc_product": "Description1On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "650"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto2",
+                "desc_product": "Description2On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "603"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto3",
+                "desc_product": "Description4On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "604"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto5",
+                "desc_product": "Description5On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "605"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto6",
+                "desc_product": "Description6On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "606"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto7",
+                "desc_product": "Description7On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "607"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto8",
+                "desc_product": "Description8On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "608"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto9",
+                "desc_product": "Description9On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "608"
+            }
+        ],
+        "Persianas": [
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto1",
+                "desc_product": "Description1On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "650"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto2",
+                "desc_product": "Description2On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "603"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto3",
+                "desc_product": "Description4On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "604"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto5",
+                "desc_product": "Description5On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "605"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto6",
+                "desc_product": "Description6On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "606"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto7",
+                "desc_product": "Description7On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "607"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto8",
+                "desc_product": "Description8On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "608"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto9",
+                "desc_product": "Description9On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "608"
+            }
+        ],
+        "Puertas": [
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto1",
+                "desc_product": "Description1On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "650"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto2",
+                "desc_product": "Description2On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "603"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto3",
+                "desc_product": "Description4On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "604"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto5",
+                "desc_product": "Description5On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "605"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto6",
+                "desc_product": "Description6On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "606"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto7",
+                "desc_product": "Description7On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "607"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto8",
+                "desc_product": "Description8On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "608"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto9",
+                "desc_product": "Description9On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "608"
+            }
+        ],
+        "Roller": [
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto1",
+                "desc_product": "Description1On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "650"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto2",
+                "desc_product": "Description2On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "603"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto3",
+                "desc_product": "Description4On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "604"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto5",
+                "desc_product": "Description5On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "605"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto6",
+                "desc_product": "Description6On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "606"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto7",
+                "desc_product": "Description7On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "607"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto8",
+                "desc_product": "Description8On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "608"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto9",
+                "desc_product": "Description9On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "608"
+            }
+        ],
+        "Techos": [
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto1",
+                "desc_product": "Description1On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "650"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto2",
+                "desc_product": "Description2On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "603"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto3",
+                "desc_product": "Description4On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "604"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto5",
+                "desc_product": "Description5On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "605"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto6",
+                "desc_product": "Description6On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "606"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto7",
+                "desc_product": "Description7On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "607"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto8",
+                "desc_product": "Description8On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "608"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto9",
+                "desc_product": "Description9On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "608"
+            }
+        ]
+    },
+    "servicios": {
+        "Albañilería": [
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto1",
+                "desc_product": "Description1On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "100"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto2",
+                "desc_product": "Description2On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "103"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto3",
+                "desc_product": "Description4On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "104"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto5",
+                "desc_product": "Description5On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "105"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto6",
+                "desc_product": "Description6On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "106"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto7",
+                "desc_product": "Description7On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "107"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto8",
+                "desc_product": "Description8On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "108"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto9",
+                "desc_product": "Description9On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "109"
+            }
+        ],
+        "Aplicación": [
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto1",
+                "desc_product": "Description1On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "250"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto2",
+                "desc_product": "Description2On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "203"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto3",
+                "desc_product": "Description4On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "204"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto5",
+                "desc_product": "Description5On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "205"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto6",
+                "desc_product": "Description6On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "206"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto7",
+                "desc_product": "Description7On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "207"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto8",
+                "desc_product": "Description8On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "208"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto9",
+                "desc_product": "Description9On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "209"
+            }
+        ],
+        "Carpinteria": [
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto1",
+                "desc_product": "Description1On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "350"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto2",
+                "desc_product": "Description2On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "303"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto3",
+                "desc_product": "Description4On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "304"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto5",
+                "desc_product": "Description5On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "305"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto6",
+                "desc_product": "Description6On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "306"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto7",
+                "desc_product": "Description7On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "307"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto8",
+                "desc_product": "Description8On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "308"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto9",
+                "desc_product": "Description9On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "308"
+            }
+        ],
+        "Confección M/O": [
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto1",
+                "desc_product": "Description1On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "450"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto2",
+                "desc_product": "Description2On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "403"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto3",
+                "desc_product": "Description4On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "404"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto5",
+                "desc_product": "Description5On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "405"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto6",
+                "desc_product": "Description6On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "406"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto7",
+                "desc_product": "Description7On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "407"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto8",
+                "desc_product": "Description8On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "408"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto9",
+                "desc_product": "Description9On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "408"
+            }
+        ],
+        "Instalación": [
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto1",
+                "desc_product": "Description1On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "550"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto2",
+                "desc_product": "Description2On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "503"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto3",
+                "desc_product": "Description4On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "504"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto5",
+                "desc_product": "Description5On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "505"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto6",
+                "desc_product": "Description6On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "506"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto7",
+                "desc_product": "Description7On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "507"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto8",
+                "desc_product": "Description8On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "508"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto9",
+                "desc_product": "Description9On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "508"
+            }
+        ],
+        "Lavado": [
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto1",
+                "desc_product": "Description1On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "650"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto2",
+                "desc_product": "Description2On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "603"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto3",
+                "desc_product": "Description4On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "604"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto5",
+                "desc_product": "Description5On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "605"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto6",
+                "desc_product": "Description6On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "606"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto7",
+                "desc_product": "Description7On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "607"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto8",
+                "desc_product": "Description8On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "608"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto9",
+                "desc_product": "Description9On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "608"
+            }
+        ],
+        "Limpieza-Pintado": [
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto1",
+                "desc_product": "Description1On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "650"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto2",
+                "desc_product": "Description2On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "603"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto3",
+                "desc_product": "Description4On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "604"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto5",
+                "desc_product": "Description5On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "605"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto6",
+                "desc_product": "Description6On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "606"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto7",
+                "desc_product": "Description7On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "607"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto8",
+                "desc_product": "Description8On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "608"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto9",
+                "desc_product": "Description9On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "608"
+            }
+        ],
+        "Mantenimiento": [
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto1",
+                "desc_product": "Description1On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "650"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto2",
+                "desc_product": "Description2On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "603"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto3",
+                "desc_product": "Description4On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "604"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto5",
+                "desc_product": "Description5On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "605"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto6",
+                "desc_product": "Description6On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "606"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto7",
+                "desc_product": "Description7On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "607"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto8",
+                "desc_product": "Description8On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "608"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto9",
+                "desc_product": "Description9On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "608"
+            }
+        ],
+        "Tapizado": [
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto1",
+                "desc_product": "Description1On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "650"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto2",
+                "desc_product": "Description2On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "603"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto3",
+                "desc_product": "Description4On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "604"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto5",
+                "desc_product": "Description5On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "605"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto6",
+                "desc_product": "Description6On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "606"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto7",
+                "desc_product": "Description7On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "607"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto8",
+                "desc_product": "Description8On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "608"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto9",
+                "desc_product": "Description9On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "608"
+            }
+        ]
+    },
+    "destacados": {
+        "Cortinas": [
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto1",
+                "desc_product": "Description1On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "100"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto2",
+                "desc_product": "Description2On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "103"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto3",
+                "desc_product": "Description4On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "104"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto5",
+                "desc_product": "Description5On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "105"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto6",
+                "desc_product": "Description6On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "106"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto7",
+                "desc_product": "Description7On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "107"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto8",
+                "desc_product": "Description8On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "108"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto9",
+                "desc_product": "Description9On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "109"
+            }
+        ],
+        "Stores": [
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto1",
+                "desc_product": "Description1On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "250"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto2",
+                "desc_product": "Description2On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "203"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto3",
+                "desc_product": "Description4On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "204"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto5",
+                "desc_product": "Description5On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "205"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto6",
+                "desc_product": "Description6On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "206"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto7",
+                "desc_product": "Description7On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "207"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto8",
+                "desc_product": "Description8On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "208"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto9",
+                "desc_product": "Description9On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "209"
+            }
+        ],
+        "Roller Duo": [
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto1",
+                "desc_product": "Description1On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "350"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto2",
+                "desc_product": "Description2On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "303"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto3",
+                "desc_product": "Description4On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "304"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto5",
+                "desc_product": "Description5On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "305"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto6",
+                "desc_product": "Description6On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "306"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto7",
+                "desc_product": "Description7On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "307"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto8",
+                "desc_product": "Description8On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "308"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto9",
+                "desc_product": "Description9On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "308"
+            }
+        ],
+        "Persianas": [
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto1",
+                "desc_product": "Description1On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "450"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto2",
+                "desc_product": "Description2On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "403"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto3",
+                "desc_product": "Description4On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "404"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto5",
+                "desc_product": "Description5On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "405"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto6",
+                "desc_product": "Description6On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "406"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto7",
+                "desc_product": "Description7On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "407"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto8",
+                "desc_product": "Description8On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "408"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto9",
+                "desc_product": "Description9On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "408"
+            }
+        ]
+    },
+    "proyectos": {
+        "Obra Civil": [
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto1",
+                "desc_product": "Description1On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "100"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto2",
+                "desc_product": "Description2On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "103"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto3",
+                "desc_product": "Description4On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "104"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto5",
+                "desc_product": "Description5On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "105"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto6",
+                "desc_product": "Description6On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "106"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto7",
+                "desc_product": "Description7On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "107"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto8",
+                "desc_product": "Description8On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "108"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto9",
+                "desc_product": "Description9On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "109"
+            }
+        ],
+        "Fundas Muebles": [
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto1",
+                "desc_product": "Description1On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "250"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto2",
+                "desc_product": "Description2On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "203"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto3",
+                "desc_product": "Description4On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "204"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto5",
+                "desc_product": "Description5On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "205"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto6",
+                "desc_product": "Description6On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "206"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto7",
+                "desc_product": "Description7On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "207"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto8",
+                "desc_product": "Description8On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "208"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto9",
+                "desc_product": "Description9On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "209"
+            }
+        ],
+        "Cielos Raso": [
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto1",
+                "desc_product": "Description1On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "350"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto2",
+                "desc_product": "Description2On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "303"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto3",
+                "desc_product": "Description4On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "304"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto5",
+                "desc_product": "Description5On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "305"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto6",
+                "desc_product": "Description6On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "306"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto7",
+                "desc_product": "Description7On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "307"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto8",
+                "desc_product": "Description8On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "308"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto9",
+                "desc_product": "Description9On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "308"
+            }
+        ],
+        "Lavado Alfombras": [
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto1",
+                "desc_product": "Description1On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "450"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto2",
+                "desc_product": "Description2On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "403"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto3",
+                "desc_product": "Description4On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "404"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto5",
+                "desc_product": "Description5On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "405"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto6",
+                "desc_product": "Description6On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "406"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto7",
+                "desc_product": "Description7On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "407"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto8",
+                "desc_product": "Description8On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "408"
+            },
+            {
+                "img_product": "https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/img/1.3b312012.png",
+                "name_product": "Producto9",
+                "desc_product": "Description9On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...On Retina display that never sleeps, so it’s...",
+                "prec_product": "408"
+            }
+        ]
+    }
+}
+    

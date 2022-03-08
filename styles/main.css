@@ -1,0 +1,47 @@
+:root {
+  --color-blue: #4286f5;
+  --color-green: #109d58;
+  --color-red: #ea4235;
+  --color-yellow: #fabd03;
+  --color-black: #484a52;
+  --color-scrollbar-background: #f3f2f7;
+
+  /* Tags Inputs (Chips) */
+  /* --purple: #e41b6f; */
+  --purple: #ef5350;
+  --off-white: #f8f8f8;
+  --off-black: #444444;
+  --shadow: 0 0 30px #cccccc;
+  --xs: 0.2rem;
+  --sm: 0.5rem;
+  --md: 0.8rem;
+  --lg: 1rem;
+  --xlg: 0.5rem;
+  --xxlg: 2rem;
+  --transition: 0.3s linear all;
+}
+
+body {
+  font-family: "Lato", sans-serif;
+  background-color: #f6f6f6;
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar,
+::-webkit-scrollbar-track {
+  background: #9289f3;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #9289f3;
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar,
+::-webkit-scrollbar-track {
+  background: #ffffff;
+}
