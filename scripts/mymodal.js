@@ -48,7 +48,7 @@ const myModal = (pecommerce, img, title, description, price) => {
                     <p class="title">${title}</p>
                     <p class="price">S/.<span>${price}</span></p>
                     <p>${description}</p>
-                    <a href="#" class="btn btn-success to-buy"><i class="bi bi-whatsapp"></i><span class="ms-2">Comprar</span></a>
+                    <a href="https://api.whatsapp.com/send?phone=+51991329681&text=¡Hola%20Rasil,%20solicito%20información!" class="btn btn-success to-buy"><i class="bi bi-whatsapp"></i><span class="ms-2">Comprar</span></a>
                 </div>
             </div>
             <div class="modal-footer">
